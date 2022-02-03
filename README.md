@@ -23,6 +23,7 @@ It can perform the following operations in the databse
        <li>      Drop Table</li>
         <li>     Insert Data</li>
         <li>     Show Data</li>
-          <li><li>   Update Data</li>
+          <li>   Update Data</li>
          <li>    Delete Datae</li>
  </ul>
+ <cemter><h2>Thank You!! Enjoy using the application</h2></center>
