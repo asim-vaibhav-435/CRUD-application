@@ -10,13 +10,19 @@ CRUD application </p>
  
 <h2>Desciption of application</h2>
  
-This application is used edit a database.
+This application is used edit a database.The tables contain columns having information like roll id, name, phone number, city.<br>
+The column is decided on the basis of first three letters of the table name and the information, eg. table name- employee, than first column name- emp_id
+<br>
+It can perform the following operations in the databse
 <br>
 
 <h3>Features: - <h3>
  <ul>
-  <li>Create table</li>
-  <li>Insert data</li>
-  <li>update data  </li>
-  <li>Create table</li>
-  <li>Create table</li>
+  <li> Create Table </li>
+          <li>   Show Tables</li>
+       <li>      Drop Table</li>
+        <li>     Insert Data</li>
+        <li>     Show Data</li>
+          <li><li>   Update Data</li>
+         <li>    Delete Datae</li>
+ </ul>
